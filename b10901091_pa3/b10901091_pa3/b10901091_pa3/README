@@ -1,0 +1,9 @@
+# Algorithm PA3
+## Author: b10901091 Kuan-Yi,Lee
+
+## Compile and Run
+type `make` to compile
+
+type`./cb <input file> <output file>` to run 
+
+type `make clean` to clear cb and .o files
